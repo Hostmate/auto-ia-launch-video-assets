@@ -1,0 +1,89 @@
+{
+  "product": "Auto IA",
+  "captured_on": "2026-10-09",
+  "interface": "Recorrido comercial de Auto IA",
+  "data": "Escenario de presentación con Motor Jardín y compradores de ejemplo; sin datos privados de clientes",
+  "files": [
+    {
+      "filename": "01-panel-atencion.jpg",
+      "title": "Panel de atención",
+      "width": 1408,
+      "height": 870,
+      "mime_type": "image/jpeg",
+      "sha256": "33d7c63816dfdc4a97955bdd0265ba7a8c7607a0803f140a2f4b55dfcf92c17c",
+      "purpose": "Panel, prioridades y KPIs. Las cifras pertenecen al escenario de presentación; no son resultados comerciales."
+    },
+    {
+      "filename": "02-conversaciones.jpg",
+      "title": "Conversaciones",
+      "width": 1409,
+      "height": 1135,
+      "mime_type": "image/jpeg",
+      "sha256": "bd062494761225607d154e7b54b318d7ed90e126db47d904cacb069a95cc56b4",
+      "purpose": "Conversación del Golf con petición de visita y contexto para el equipo."
+    },
+    {
+      "filename": "03-crm-compradores.jpg",
+      "title": "CRM de compradores",
+      "width": 1408,
+      "height": 943,
+      "mime_type": "image/jpeg",
+      "sha256": "04129760b81d18204125b442672581bde2242b2e89a0d7d2448397feaf86b790",
+      "purpose": "Fases de compradores y próxima acción."
+    },
+    {
+      "filename": "04-agenda-visitas.jpg",
+      "title": "Agenda de visitas",
+      "width": 1408,
+      "height": 943,
+      "mime_type": "image/jpeg",
+      "sha256": "ec1acbaa27f0f7170afc3816693b8803bd65eae565624a61e0d2e3db208d2564",
+      "purpose": "Preparación de visita y citas registradas en el escenario."
+    },
+    {
+      "filename": "05-seguimiento.jpg",
+      "title": "Seguimiento",
+      "width": 1408,
+      "height": 943,
+      "mime_type": "image/jpeg",
+      "sha256": "4e348e6ddad3786386f4ad192921a67afb08ae114eaf396ca4c421f220a461b0",
+      "purpose": "Seguimientos y recomendación de un vehículo alternativo."
+    },
+    {
+      "filename": "06-calendario-publicaciones.jpg",
+      "title": "Calendario de publicaciones",
+      "width": 1408,
+      "height": 990,
+      "mime_type": "image/jpeg",
+      "sha256": "6c3fb7b269f3067672ee713036934be9b708516617c0c02be69d39f695e0121a",
+      "purpose": "Selección visual del coche y calendario con Instagram y YouTube."
+    },
+    {
+      "filename": "07-portal-vehiculos.jpg",
+      "title": "Portal de vehículos",
+      "width": 1408,
+      "height": 943,
+      "mime_type": "image/jpeg",
+      "sha256": "91a7218457ec195a1b9f60f38635c2b5c5cf9efaa9ccd53d301c3316c9c4c373",
+      "purpose": "Vista de escaparate de vehículos incluida en la propuesta."
+    },
+    {
+      "filename": "08-captacion-instagram.jpg",
+      "title": "Captación en Instagram",
+      "width": 1408,
+      "height": 1096,
+      "mime_type": "image/jpeg",
+      "sha256": "fea4eb77ffa3db3534d4334acba7f2ee6bab9df1eacba4a84a6d46047f16d854",
+      "purpose": "Vista de ejemplo inspirada en Instagram: comentario CATÁLOGO y mensaje privado."
+    },
+    {
+      "filename": "09-publicacion-completa.jpg",
+      "title": "Publicación completa",
+      "width": 1531,
+      "height": 2370,
+      "mime_type": "image/jpeg",
+      "sha256": "12e2b436384a703c2a9afa9455f8e285a6310947a2b3366e7aff5a0749baea49",
+      "purpose": "Captura larga con selección de redes, borrador editable y vista previa. Usar acercamientos a regiones concretas."
+    }
+  ]
+}
